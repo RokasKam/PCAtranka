@@ -1,0 +1,15 @@
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/bin/Debug/net6.0/PCAtranka.Core.deps.json
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/bin/Debug/net6.0/PCAtranka.Core.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/bin/Debug/net6.0/PCAtranka.Core.pdb
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/bin/Debug/net6.0/PCAtranka.Domain.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/bin/Debug/net6.0/PCAtranka.Domain.pdb
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.csproj.AssemblyReference.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.AssemblyInfoInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.AssemblyInfo.cs
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.csproj.CoreCompileInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.csproj.CopyComplete
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/refint/PCAtranka.Core.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/PCAtranka.Core.pdb
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/obj/Debug/net6.0/ref/PCAtranka.Core.dll

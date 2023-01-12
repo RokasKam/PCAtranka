@@ -1,0 +1,12 @@
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/bin/Debug/net6.0/PCAtranka.Domain.deps.json
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/bin/Debug/net6.0/PCAtranka.Domain.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/bin/Debug/net6.0/PCAtranka.Domain.pdb
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.csproj.AssemblyReference.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.AssemblyInfoInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.AssemblyInfo.cs
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.csproj.CoreCompileInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/refint/PCAtranka.Domain.dll
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/PCAtranka.Domain.pdb
+/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Domain/obj/Debug/net6.0/ref/PCAtranka.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qf31JiMHJjeayXQ2yTazNPo6Dw5OEgSynZ6drJKmKfYpDlLpPus3BIxSZpJ2x98ZSJ80t9/9at91YtGiqugeJQ==",
+  "success": true,
+  "projectFilePath": "/Users/rokaskamblevicius/RiderProjects/PCAtranka/PCAtranka.Core/PCAtranka.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/rokaskamblevicius/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/rokaskamblevicius/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
